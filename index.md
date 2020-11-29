@@ -2,7 +2,7 @@
 <html lang="en-US">
     <head>
         <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="0; url=guidoputignano.com">
+        <meta http-equiv="refresh" content="0; url=about.html">
         <script type="text/javascript">
             window.location.href = "about.html"
         </script>
